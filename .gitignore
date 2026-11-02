@@ -1,0 +1,16 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio generated files
+.vs/
+.vscode/
+*.sln
+*.suo
+*.user
+
+# Temporary files
+*.tmp
+*.log
